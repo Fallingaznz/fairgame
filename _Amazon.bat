@@ -1,1 +1,1 @@
-cmd /k pipenv run python app.py amazon --shipping-bypass --delay=2.5
+cmd /k pipenv run python app.py amazon --delay=2
