@@ -1,1 +1,1 @@
-cmd /k pipenv run python app.py amazon --delay=2
+cmd /k pipenv run python app.py amazon --delay=1.5 --used
