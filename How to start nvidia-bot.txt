@@ -1,0 +1,11 @@
+How to start nvidia-bot
+
+Open the directory
+cd Documents\GitHub\nvidia-bot
+
+Launch the shell
+pipenv shell
+
+Launch the bot
+
+python app.py
